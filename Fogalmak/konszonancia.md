@@ -1,0 +1,1 @@
+(Többszólamú zenében) jó együtthangzás. Ellentéte a [[disszonancia]]. Nem csak szubjektív, a hangok fizikájától is függ, egész konkrétan a megszólaló felhangoktól: t8, n3, t5.

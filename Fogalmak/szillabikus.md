@@ -1,0 +1,1 @@
+(énekes műben) minden szótagra egy hang jut (hajlítások lehetségesek)

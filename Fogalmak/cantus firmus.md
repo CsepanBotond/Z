@@ -1,0 +1,1 @@
+állandó/kötött dallam a katolikus misében; minden tételben ugyanaz a [[gregorián]] dallam jelenik meg a [[tenor]] szólamban.

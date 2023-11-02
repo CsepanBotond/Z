@@ -1,0 +1,1 @@
+(Többszólamú zenében) rossz együtthangzás; széthangzás. Ellentéte a [[konszonancia]].

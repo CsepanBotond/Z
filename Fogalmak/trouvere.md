@@ -1,0 +1,1 @@
+(*trouvère*) a [[trubadúr]] Észak-[[Franciaország|franciaországi]] megfelelője, a [[trouvere-zene]] képviselője.

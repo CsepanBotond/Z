@@ -1,0 +1,1 @@
+vagy *okcitán*. Dél-[[Franciaország]]ban jellemző újlatin nyelv.

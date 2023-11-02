@@ -1,0 +1,1 @@
+[[XIII. század]]i szerzetes, [[trouvere]].

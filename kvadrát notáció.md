@@ -1,0 +1,1 @@
+Középkori kottaírás, a hangjegyeket 4 vonalra írták, és négyszögletes alakjuk volt (innen a név).

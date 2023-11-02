@@ -1,0 +1,1 @@
+A középkori többszólamú zenében kötelezően jelenlévő [[gregorián]] dallam.

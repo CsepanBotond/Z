@@ -1,0 +1,1 @@
+(énekes műben) minden versszak ugyanazzal a dallammal rendelkezik

@@ -1,0 +1,1 @@
+[[XII. század]]i [[trubadúr]]. 

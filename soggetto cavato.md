@@ -1,0 +1,1 @@
+“Kivett téma”, [[reneszánsz]] gyakorlat, melynek során betűket átértelmeztek hangoknak. Példa erre [[Josquin des Prez]] műve, a *Missa Hercules Dux Ferrariae*.

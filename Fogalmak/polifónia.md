@@ -1,0 +1,1 @@
+szólamok egyenrangúak és függetlenek. Ellentéte a [[homofónia]].

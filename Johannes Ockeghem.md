@@ -1,0 +1,1 @@
+[[reneszánsz|Reneszánsz]] zeneszerző, [[Josquin des Prez]] tanítója. Bonyolult műveket komponált.

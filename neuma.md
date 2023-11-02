@@ -1,0 +1,3 @@
+Középkori hangjelzés. “Intés” szóból ered.
+A [[VIII. század]]ban vonal nélküli neumaírással kezdődött az európai kottaírás története^[ókori görögöknek volt kottaírásuk]. Az így írt kották értelmezése napjainkban ismeretlen.
+Kr.u. 1000 körül ([[XI. század]]) alakultak ki a vonalra helyezett (vonalas) neumák. Eleinte a vonal egy hangot jelölt, majd több vonalat is húztak a kottába, amelyek bizonyos hangközre voltak (pl. t5).

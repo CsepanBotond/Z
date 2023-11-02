@@ -1,0 +1,2 @@
+cca. 1500 körül kezdődik, Petrucci nevéhez fűződik.
+Ezáltal a nemesség és polgárság széles körben juthatott zenéhez, ezért a zeneszerzők könnyen énekelhető, népszerű darabokat komponáltak; ezek voltak a [[frottola|frottolák]].

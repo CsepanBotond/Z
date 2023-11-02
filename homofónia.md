@@ -1,0 +1,1 @@
+dallam-kíséret viszony a szólamok között; szólamok együtt mozognak. Ellentéte a [[polifónia]].

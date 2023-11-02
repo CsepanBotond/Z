@@ -1,0 +1,1 @@
+(énekes műben) minden sorban ugyanannyi szótag található

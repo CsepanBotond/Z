@@ -1,0 +1,1 @@
+A “tartani” szóból eredő szólam megnevezés. A [[motetta|motettákban]] a [[gregorián]] dallamrészletet tartalmazó szólam megnevezése.
