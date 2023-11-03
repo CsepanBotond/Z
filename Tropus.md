@@ -1,3 +1,3 @@
-Jelentése: “bővítmény”. A középkorban az ősi [[gregorián|gregorián]] dallamokat szentként tisztelték, azokon nem változtattak. Ugyanakkor volt, hogy a művek közepébe *bővítményeket* írtak, így született meg a *tropus* műfaja, illetve a *tropizálás*. Tropizálással születtek a [[Sequentia|sequentiák]]. 
+Jelentése: “bővítmény”. A középkorban az ősi [[gregorián|gregorián]] dallamokat szentként tisztelték, azokon nem változtattak. Ugyanakkor volt, hogy a művek közepébe *bővítményeket* írtak, így született meg a *tropus* műfaja, illetve a *tropizálás*. Tropizálással születtek a [[sequentia|sequentiák]]. 
 Mivel az [[organum]] egyik szólama mindig gregorián dallam, ezért a többszólamúság maga is *tropus*.
 A [[tridenti zsinat]] betiltotta az alkalmazását.

@@ -15,7 +15,7 @@ A párhuzam szabályos szerint működött; jellemző volt, hogy a szólamok a s
 Közös hangon kezdődnek, majd a szólamok ellentétes irányban mozognak. Sor végén a szólamok találkoznak.
 
 > [!example] Sanctus, omnes unanimiter
-> Az *Omnes unanimiter* [[Tropus|tropus]] a *Sanctus* melizmához.
+> Az *Omnes unanimiter* [[tropus|tropus]] a *Sanctus* melizmához.
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h4U1FUgXQfI?si=x2LWPG6SKH_vHiNB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d2GV0EEKmjw?si=DHaXv7avLVU3BjpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Melizmatikus organum

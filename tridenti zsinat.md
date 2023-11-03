@@ -1,1 +1,1 @@
-\1542. május 22-ére hívta össze a zsinatot III. Pál pápa Tridentbe (ma: Trento). Az ellenreformáció kezdetét jelentette.
+A [[XVI. század]]ban, 1542. május 22-ére hívta össze a zsinatot III. Pál pápa Tridentbe (ma: Trento). Az ellenreformáció kezdetét jelentette.

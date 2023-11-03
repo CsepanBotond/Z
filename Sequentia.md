@@ -7,6 +7,7 @@ A pünkösdi allelujahoz komponált *sequentia* a Veni Sancte Spiritus.
 
 Dies irae
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c_PBKPqFZ9c?si=UMCuyHbVLFwnvr-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - késői *sequentia*: [[XII. század]]ra tehető
 - szövegét Celanoi Tamásnak (Tommaso da Celano) tulajdonítják
 - nem tartozik hozzá alleluja
