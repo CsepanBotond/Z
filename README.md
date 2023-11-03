@@ -13,4 +13,4 @@ Szükséges hozzá az [Obsidian](https://obsidian.md/), a dokumentumok közötti
 3. Nyisd meg a fájlokat Obsidianban
    1. Bal oldalt alul széf ikon (Open another vault)
    5. Open folder as vault
-   6. Keresd meg a mappát a jegyzetekkel, és nyisd meg
+   6. Keresd meg a kicsomagolt mappát a jegyzetekkel, és nyisd meg
