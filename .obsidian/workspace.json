@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "4a3a734f58e41f52",
+        "id": "dc6d0d32c427c93b",
         "type": "tabs",
         "children": [
           {
-            "id": "9eb40a8c80d55e28",
+            "id": "fda2b842c5b3525f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Források/Hangrendszer.md",
+                "file": "reneszánsz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "2aeb99ef5438c7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "042b2f993e2f30e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frottola.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a11e1f3c7a50dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "madrigalizmus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Források/Hangrendszer.md",
+                "file": "madrigalizmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Források/Hangrendszer.md",
+                "file": "madrigalizmus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Források/Hangrendszer.md"
+                "file": "madrigalizmus.md"
               }
             }
           }
@@ -145,35 +176,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eb40a8c80d55e28",
+  "active": "b3a11e1f3c7a50dc",
   "lastOpenFiles": [
-    "Források/organum.md",
-    "Források/Kottaírás.md",
-    "Kronológia.md",
-    "Fogalmak/diasztematikus notáció.md",
-    "Arezzói Guido.md",
-    "hexachord rendszer.md",
-    "Szolmizáció.md",
-    "organum.md",
-    "sequentia.md",
-    "tropus.md",
-    "neuma.md",
-    "gregorián.md",
-    "A Nyugatrómai Birodalom bukása.md",
-    "Notre Dame-korszak.md",
-    "tridenti zsinat.md",
-    "ars nova.md",
-    "kottaírás.md",
     "reneszánsz.md",
-    "Angol egyházzene.md",
-    "Hangszeres műfajok.md",
-    "soggetto cavato.md",
+    "madrigalizmus.md",
+    "madrigál.md",
+    "Palestrina.md",
+    "imitáció.md",
+    "frottola.md",
     "kottanyomtatás.md",
-    "Josquin des Prez.md",
-    "Johannes Ockeghem.md",
-    "Gilles Binchois.md",
-    "Guillaume Dufay.md",
-    "Untitled.canvas",
+    "Lassus.md",
+    "Hangszeres műfajok.md",
+    "tridenti zsinat.md",
+    "Zenekultúrák.md",
+    "trubadúr-zene.md",
+    "trouvere-zene.md",
+    "tropus.md",
+    "tenor.md",
+    "Szolmizáció.md",
+    "soggetto cavato.md",
+    "sequentia.md",
+    "Schola cantorum.md",
+    "provanszál.md",
+    "Perotinus.md",
+    "orgona.md",
+    "organum.md",
+    "Notre Dame-korszak.md",
+    "neuma.md",
+    "Nagy Szent Gergely.md",
+    "Ismétlés/001-korok.canvas",
+    "Ismétlés/002-újítások.canvas",
+    "Ismétlés",
     "Tempus_perf_prol_mai.svg.png",
     "Fájlok/Guidonian_hand.jpg",
     "Fájlok/hexachordok.svg",

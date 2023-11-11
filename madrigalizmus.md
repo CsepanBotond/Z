@@ -1,0 +1,1 @@
+*szövegfestés*; a zene a szöveg tartalmát igyekszik imitálni (vagy hangsor/állatok hangját stb.)

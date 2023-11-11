@@ -22,11 +22,17 @@ Az ősi dallamok újrafelfedezése egy [[XIX. század]]i egyházzenei mozgalom e
 - **responsorium**: lényege a váltakozás, a szólisztikus és a gyülekezeti ének felelgetése
 - **alleluja**: melizmák csoportba rendeződnek
 # Példák
-## Veni redemptor gentium
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RvheqbdazZ4?si=4aEODjaPwrv5Prsy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-**Műfaj:** himnusz
-A [[IV. század]]ra datálható.
-## Pünkösdi alleluja
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PAbudZMo8bw?si=SCsuuKFKMsWBTK9L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-**Műfaj:** alleluja
-A B A keretes szerkezet jellemzi. Van benne variancia.
+>[!example] Veni redemptor gentium
+><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RvheqbdazZ4?si=4aEODjaPwrv5Prsy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+>
+>**Műfaj:** himnusz
+>A [[IV. század]]ra datálható.
+
+>[!example] Pünkösdi alleluja
+><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PAbudZMo8bw?si=SCsuuKFKMsWBTK9L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+>
+>**Műfaj:** alleluja
+>A B A keretes szerkezet jellemzi. Van benne variancia.
+
+
+

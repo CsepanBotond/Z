@@ -3,9 +3,10 @@ Zenében eltérő módon jelenik meg, hiszen az ókori kultúrák zenéjét forr
 A [[XV. század]]ban kezdődő művészettörténeti kor, zenében a központja Itália helyett [[Németalföld]], különösen Burgundia.
 A korban jelentősen megszaporodott az ismert zeneszerzők száma. Ez betudható a korra jellemző világiasodásnak, illetve az individualizmusnak, amely fókuszba helyezte az emberi teljesítményt.
 A kor zeneszerzőit gyakran foglalkoztatta a számmisztika, illetve egyéb technikákkal is “rejtett üzeneteket” csempésztek zenéjükbe. Ilyen technika például a [[soggetto cavato]].
+A [[XVI. század]] során nincs nagy változás a zenében, inkább tökéletesítés történik.
 # Jellemzői
 - szabadulás a kötöttségektől (pl. [[gregorián]] dallam)
-- szövegkifejezés, érzelmek ábrázolása
+- szövegkifejezés, érzelmek ábrázolása 👉[[madrigalizmus]]
 - hangszeres zene
 - tonalitás kialakulása (modális hangsorok → dúr – moll hangrendszer, funkciók)
 - hangterjedelem kibővül a [[basszus]] szólammal
@@ -20,3 +21,6 @@ A kor zeneszerzőit gyakran foglalkoztatta a számmisztika, illetve egyéb techn
 - [[Gilles Binchois]]
 - [[Johannes Ockeghem]]
 - [[Josquin des Prez]]
+## Késő
+- [[Palestrina]]
+- [[Lassus]]

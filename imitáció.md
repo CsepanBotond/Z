@@ -1,0 +1,1 @@
+(Többszólamú zenében) az egyik szólamban elhangzó zenei anyag megismétlése más szólam(ok)ban. Lehet eltérés (ritmikai, moduláció).

@@ -12,7 +12,9 @@ Kezdetben nem volt basszus szólam
 2. motetus: “megszövegezett” szólam
 3. [[tenor]]: [[gregorián]] dallamot tartja
 4. contratenor: keresztezik egymást a [[tenor]]ral, a harmóniákat egészíti ki
+
 Később
+
 1. superius
 2. contratenor *altus*: “magas” kontratenor
 3. tenor

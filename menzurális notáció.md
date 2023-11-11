@@ -3,4 +3,4 @@ A kottában különböző menzurajeleket használtak az ütemmutató helyett:
 - $\odot$ = 9/8
 - $\bigcirc$ =3/4
 - ($\cdot$ = 6/8
-- ( = 4/4
+- ( = 2/4

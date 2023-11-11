@@ -1,3 +1,3 @@
 A [[trubadúr-zene]] megfelelője a középkori [[Németország]]ban. Művelője a [[minnesänger]]. Jellemzően szerelmi témájú dalokat szereztek. Az [[XV. század|1400-as]] évekig maradt fent. 
-Polgári megfelelője a [[meistersang]].
+Polgári megfelelője a [[meistersang]]. 👉[[meistersänger]]
 Wagner *Tannhäuser*, ill. *A nürnbergi mesterdalnokok* c. műveiben is megjelenik a műfaj.

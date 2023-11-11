@@ -7,3 +7,4 @@ Kína, Japán, India, Egyiptom: nincs kottaírásuk.
 - cca. 1000-től: [[diasztematikus notáció]]
 - [[XI. század]]tól: vonalas neumák, [[Arezzói Guido]]
 - Kb. a [[XII. század]]tól: [[modális ritmusnotáció]], [[kvadrát notáció]]
+- [[XIV. század]]: [[menzurális notáció]]

@@ -1,1 +1,2 @@
 A [[XVI. század]]ban, 1542. május 22-ére hívta össze a zsinatot III. Pál pápa Tridentbe (ma: Trento). Az ellenreformáció kezdetét jelentette.
+A zsinat során betiltották a [[tropus]]okat, illetve a [[sequentia]]kból 5 darabon kívül az összeset. Felmerült a többszólamúság betiltása is, ezt azonban [[Palestrina]] közbenjárásának köszönhetően végül elvetették.

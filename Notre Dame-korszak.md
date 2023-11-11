@@ -1,4 +1,4 @@
-cca. 1160-1240. Más néven *Notre Dame-iskola*. Zeneirodalmi korszak, sok újítást hozott.
+cca. 1160-1240, [[XII. század]]–[[XIII. század]]. Más néven *Notre Dame-iskola*. Zeneirodalmi korszak, sok újítást hozott.
 # Események
 - Metrum megjelenik a zenében
 - Ritmizált zene; első ritmusjelölő kottaírás: [[modális ritmusnotáció]]

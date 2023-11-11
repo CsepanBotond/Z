@@ -1,1 +1,1 @@
-Középkori kottaírás, a hangjegyeket 4 vonalra írták, és négyszögletes alakjuk volt (innen a név).
+Középkori kottaírás, a hangjegyeket 4 vonalra írták, és négyszögletes alakjuk volt (innen a név). A [[gótika|gótikával]] együtt alakult ki a [[XII. század]]ban.

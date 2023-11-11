@@ -7,6 +7,7 @@ A korabeli felfogásban a zeneművészetet 3 szintre tagolták:
 1. *musica mundana*, a világ zenéje
 2. *musica humana*, az ember zenéje
 3. *musica instrumentalis*, hangszeres zene
+
 A hangszereket 2 csoportra osztották:
 1. **hangos**: orgona, ütőhangszerek, rézfúvósók, nádas fafúvósok, duda
 2. **halk**: portatív orgona, hegedű ősei (rebek, fidel), pszaltérium, lant

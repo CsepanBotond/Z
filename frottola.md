@@ -1,0 +1,1 @@
+A kottanyomtatás kialakulásával egy időben megszülető, világi témájú, jellemzően [[homofónia|homofón]], [[strófikus]] formájú kórusmű. Utódjához, a [[madrigál]]hoz képest egyszerűbb, igénytelenebb.

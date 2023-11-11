@@ -1,4 +1,4 @@
-Németalföldön és a mai Franciaország területén az alábbi csoportokba sorolták a hangközöket. A [[XV. század|XV.]]–[[XVI. század]] környékén a szext és terc hangközök bekerülnek a *tökéletes konszonanciák* közé.
+[[Németalföld]]ön és a mai [[Franciaország]] területén az alábbi csoportokba sorolták a hangközöket. A [[XV. század|XV.]]–[[XVI. század]] környékén a szext és terc hangközök bekerülnek a *tökéletes konszonanciák* közé.
 # Tökéletes [[konszonancia]]
 - t8
 - t5
@@ -6,7 +6,7 @@ Németalföldön és a mai Franciaország területén az alábbi csoportokba sor
 # Tökéletlen [[konszonancia]]
 - k-n3
 - k-n6
-# Disszonancia
+# [[disszonancia|Disszonancia]]
 - k-n2
 - k-n7
 - sz5

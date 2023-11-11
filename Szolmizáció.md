@@ -1,4 +1,4 @@
-Viszonyítási rendszer hangok távolságának (a 2k helyének) megállapítására. Két rendszere a relatív és az abszolút.
+Viszonyítási rendszer hangok távolságának (a *k2* helyének) megállapítására. Két rendszere a relatív és az abszolút.
 **Relatív**: a szótagok adott hangsorra illeszkednek, azon belül a k2 helyeket jelölik.
 **Abszolút**: a szótagok fix hangokat jelölnek (c = do, g = sol stb.); latin nyelvű országok használják.
 # Története
