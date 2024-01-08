@@ -1,0 +1,1 @@
+Jellemzői a sematikus díszletek és a korabeli ruha- és hajviselet.

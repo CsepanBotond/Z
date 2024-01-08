@@ -1,1 +1,1 @@
-Többszólamú, világi témájú énekes mű.
+Egy- vagy többszólamú, világi rémájú énekes mű. Eredetileg a [[trubadúr-zene]] műfaja. [[Guillaume de Machaut]] volt az első zeneszerző, aki nagy számú többszólamú *chanson*t komponált.

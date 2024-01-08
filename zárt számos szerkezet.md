@@ -1,0 +1,1 @@
+Az korai opera műfajára jellemző; a [[recitativo]] részeket táncbetétek, [[ritornello|zenekari közjátékok]], strófikus dalbetétek, kórusbetétek tagolják, ezáltal színesítve a művet.

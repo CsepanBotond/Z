@@ -1,1 +1,1 @@
-A legkorábbi [[Németalföld|németalföldi]] [[reneszánsz]] zeneszerző. Feltételezhető, hogy a hármashangzatok és tercmenetek használatát ő hozta be [[Franciaország]]ba.
+A legkorábbi [[reneszánsz]] zeneszerző. [[Anglia|Angol]] származású. Feltételezhető, hogy a hármashangzatok és tercmenetek használatát ő hozta be [[Franciaország]]ba.

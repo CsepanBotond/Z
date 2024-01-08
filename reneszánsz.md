@@ -4,6 +4,7 @@ A [[XV. század]]ban kezdődő művészettörténeti kor, zenében a központja 
 A korban jelentősen megszaporodott az ismert zeneszerzők száma. Ez betudható a korra jellemző világiasodásnak, illetve az individualizmusnak, amely fókuszba helyezte az emberi teljesítményt.
 A kor zeneszerzőit gyakran foglalkoztatta a számmisztika, illetve egyéb technikákkal is “rejtett üzeneteket” csempésztek zenéjükbe. Ilyen technika például a [[soggetto cavato]].
 A [[XVI. század]] során nincs nagy változás a zenében, inkább tökéletesítés történik.
+Az ekkor született zeneművek nagyon kötöttek, ezt követően majd a [[barokk]] ad nagy szabadságot a zenészeknek, előadóknak. **Megkérdezni!**
 # Jellemzői
 - szabadulás a kötöttségektől (pl. [[gregorián]] dallam)
 - szövegkifejezés, érzelmek ábrázolása 👉[[madrigalizmus]]

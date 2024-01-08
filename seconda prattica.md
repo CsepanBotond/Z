@@ -1,0 +1,1 @@
+“Második gyakorlat.” A [[barokk]] zene megnevezése; olyan zenei stílus, ami az egyszólamúságra és [[homofónia|homofóniára]] alapszik. Megelőzi a [[prima prattica]], a bonyolult [[polifónia|polifóniával]] működő [[reneszánsz]] zene.

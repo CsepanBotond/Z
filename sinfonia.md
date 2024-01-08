@@ -1,0 +1,1 @@
+Az [[opera#Olasz opera|olasz operanyitány]]. [[Alessandro Scarlatti]] nevéhez fűződik. Gyors-lassú-gyors szakaszokból áll, a francia [[ouverture]]-höz hasonlatos.

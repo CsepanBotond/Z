@@ -1,0 +1,1 @@
+“Folyamatos basszus”. A [[reneszánsz]] végén/[[barokk]] elején elterjedt kíséret-technika. A kíséretet improvizatív módon egy dallamjátszó és egy akkordjátszó hangszer biztosította.

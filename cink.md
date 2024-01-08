@@ -1,0 +1,1 @@
+Más néven *kornett*; gyakorlatilag “fa trombita”. [[reneszánsz|Reneszánsz]]-[[barokk]] hangszer, [[Claudio Monteverdi]] korában ([[Claudio Monteverdi#Orfeo|Orfeo]]) használták utoljára.

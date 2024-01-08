@@ -1,0 +1,1 @@
+*alla turca*. [[Jean-Baptiste Lully]] korától népszerű zenei stílus, amely egy elképzelt török hangzásvilágot próbál utánozni. Lully alkalmazta az *Úrhatnám polgár* operaváltozatában. A törökös darabok nagydobot és cintányért, néha triangulumot alkalmaztak, viszont a dallamoknak nem volt közük a valódi török zenekultúra zenei anyagához.

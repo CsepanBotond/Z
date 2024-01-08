@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"ed88cae3b13c2aa8","x":-540,"y":-400,"width":250,"height":60,"type":"text","text":"IX. század"},
+		{"id":"fe90d1a6a8437d16","x":-250,"y":-400,"width":250,"height":60,"type":"text","text":"X. század"},
+		{"id":"d802fa08f4a4f161","x":20,"y":-400,"width":250,"height":60,"type":"text","text":"XI. század"},
+		{"id":"baf25899f81c8cfe","x":-375,"y":140,"width":250,"height":60,"type":"text","text":"XII. század"},
+		{"id":"6b65829913689e32","x":-625,"y":-200,"width":250,"height":50,"type":"text","text":"kezdete"},
+		{"id":"41a58228e2a6fc64","x":-398,"y":-161,"width":250,"height":60,"type":"text","text":"neumák"},
+		{"id":"85fff44f940ca411","x":323,"y":-255,"width":250,"height":60,"type":"text","text":"Arezzoi Guido"},
+		{"id":"67ac248666472013","x":-580,"y":20,"width":250,"height":60,"type":"text","text":"kvadrát kottaírás"},
+		{"id":"c64f47277499e065","x":-290,"y":20,"width":250,"height":60,"type":"text","text":"modális ritmusnotáció"},
+		{"id":"c495ee7fe248e73d","x":161,"y":-36,"width":250,"height":60,"type":"text","text":"menzurális notáció"},
+		{"id":"113514309b2ac7ce","x":-830,"y":-400,"width":250,"height":60,"type":"text","text":"VIII. század"},
+		{"id":"f0138250a97994a5","x":-105,"y":-161,"width":250,"height":60,"type":"text","text":"diasztematikus notáció"},
+		{"id":"627aba6cac69535a","x":161,"y":-161,"width":250,"height":60,"type":"text","text":"vonalas neumák"},
+		{"id":"f1c255542d77f77c","x":-40,"y":140,"width":250,"height":60,"type":"text","text":"XIII. század"},
+		{"id":"84fb821c332434c0","x":286,"y":140,"width":250,"height":60,"type":"text","text":"XIV. század"}
+	],
+	"edges":[
+		{"id":"a4b8d43104e08b77","fromNode":"ed88cae3b13c2aa8","fromSide":"bottom","toNode":"6b65829913689e32","toSide":"top"},
+		{"id":"2591befaef9f5c37","fromNode":"ed88cae3b13c2aa8","fromSide":"bottom","toNode":"41a58228e2a6fc64","toSide":"top"},
+		{"id":"d28fe9d590f865df","fromNode":"fe90d1a6a8437d16","fromSide":"bottom","toNode":"627aba6cac69535a","toSide":"top","color":"1"},
+		{"id":"3cb819e3e3401ff5","fromNode":"d802fa08f4a4f161","fromSide":"bottom","toNode":"f0138250a97994a5","toSide":"top","color":"1"},
+		{"id":"5b01376ac4676ae6","fromNode":"d802fa08f4a4f161","fromSide":"bottom","toNode":"85fff44f940ca411","toSide":"top"},
+		{"id":"a72da8e0913da660","fromNode":"baf25899f81c8cfe","fromSide":"top","toNode":"c64f47277499e065","toSide":"bottom"},
+		{"id":"311ea6070f9faea7","fromNode":"baf25899f81c8cfe","fromSide":"top","toNode":"67ac248666472013","toSide":"bottom"},
+		{"id":"4d2aed74262f2fee","fromNode":"f1c255542d77f77c","fromSide":"top","toNode":"c495ee7fe248e73d","toSide":"bottom","color":"1"},
+		{"id":"1aa494f265f602aa","fromNode":"113514309b2ac7ce","fromSide":"bottom","toNode":"6b65829913689e32","toSide":"top","color":"4"},
+		{"id":"96039b33e977d1bc","fromNode":"d802fa08f4a4f161","fromSide":"bottom","toNode":"627aba6cac69535a","toSide":"top","color":"4"},
+		{"id":"12cdd1366460d29b","fromNode":"fe90d1a6a8437d16","fromSide":"bottom","toNode":"f0138250a97994a5","toSide":"top","color":"4"},
+		{"id":"67a09987049a837c","fromNode":"84fb821c332434c0","fromSide":"top","toNode":"c495ee7fe248e73d","toSide":"bottom","color":"4"}
+	]
+}

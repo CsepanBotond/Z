@@ -1,0 +1,2 @@
+Tágabb értelemben a [[reneszánsz]] és [[barokk]] zenére jellemző, visszatérő passzázs zenekari vagy kórusműben.
+A kifejezés használatos az [[opera#Olasz opera|olasz operák]] [[recitativo]]k közötti zenekari közjátékaira is.

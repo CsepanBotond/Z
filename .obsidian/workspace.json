@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6d0d32c427c93b",
+        "id": "a65af8805a9e5286",
         "type": "tabs",
         "children": [
           {
-            "id": "fda2b842c5b3525f",
+            "id": "6c5dd9d8d542c072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reneszánsz.md",
+                "file": "barokk.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,35 +22,22 @@
         ]
       },
       {
-        "id": "2aeb99ef5438c7fb",
+        "id": "43b23d5b495d553e",
         "type": "tabs",
         "children": [
           {
-            "id": "042b2f993e2f30e9",
+            "id": "2a52290a2e51a806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frottola.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3a11e1f3c7a50dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "madrigalizmus.md",
+                "file": "Antonio Vivaldi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fogalmak#",
+                "query": "ritornello",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "madrigalizmus.md",
+                "file": "barokk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "madrigalizmus.md",
+                "file": "barokk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "madrigalizmus.md"
+                "file": "barokk.md"
               }
             }
           }
@@ -176,36 +163,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3a11e1f3c7a50dc",
+  "active": "6c5dd9d8d542c072",
   "lastOpenFiles": [
-    "reneszánsz.md",
-    "madrigalizmus.md",
+    "Antonio Vivaldi.md",
+    "ritornello forma.md",
+    "sonata.md",
+    "Arcangelo Corelli.md",
+    "concerto.md",
+    "barokk.md",
+    "Kronológia.md",
+    "Claudio Monteverdi.md",
+    "sinfonia.md",
+    "Ismétlés/007-barokk opera fogalmak.canvas",
+    "masque.md",
+    "udvari balett.md",
+    "Ismétlés/006-reneszánsz-barokk.canvas",
+    "opera.md",
+    "seconda prattica.md",
+    "stile concitato.md",
+    "ritornello.md",
+    "regal.md",
+    "cink.md",
+    "chanson.md",
     "madrigál.md",
-    "Palestrina.md",
-    "imitáció.md",
-    "frottola.md",
-    "kottanyomtatás.md",
-    "Lassus.md",
-    "Hangszeres műfajok.md",
-    "tridenti zsinat.md",
-    "Zenekultúrák.md",
-    "trubadúr-zene.md",
-    "trouvere-zene.md",
-    "tropus.md",
-    "tenor.md",
-    "Szolmizáció.md",
-    "soggetto cavato.md",
-    "sequentia.md",
-    "Schola cantorum.md",
-    "provanszál.md",
-    "Perotinus.md",
-    "orgona.md",
-    "organum.md",
-    "Notre Dame-korszak.md",
-    "neuma.md",
-    "Nagy Szent Gergely.md",
-    "Ismétlés/001-korok.canvas",
+    "zárt számos szerkezet.md",
+    "Ismétlés/Untitled.md",
+    "Thomas Tallis.md",
+    "2023-12-28.md",
+    "Henry Purcell.md",
+    "törökös zene.md",
+    "Jean-Baptiste Lully.md",
     "Ismétlés/002-újítások.canvas",
+    "Ismétlés/001-korok.canvas",
+    "Ismétlés/005-újítások.canvas",
+    "Ismétlés/004-kottaírás.canvas",
+    "Ismétlés/003-személyek.canvas",
     "Ismétlés",
     "Tempus_perf_prol_mai.svg.png",
     "Fájlok/Guidonian_hand.jpg",

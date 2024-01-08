@@ -50,3 +50,38 @@
 - [[motetta]] és [[mise]] komponálás
 - körvonalazódik a ritmusvilág és a harmónia
 - [[tridenti zsinat]]
+---
+- [[manierizmus]]
+	- [[Striggio]]
+	- [[Nicola Vicentino]]
+	- [[Carlo Gesualdo]]
+	- [[Thomas Tallis]]
+- [[opera]] születése: század vége (Firenze)
+	- [[recitativo]]
+	- [[Peri]]
+		- Euridice
+[[XVII. század]]
+- [[Claudio Monteverdi]]
+	- [[madrigál]]ok
+	- [[Claudio Monteverdi#Tankréd és Klorinda párviadala|Tankréd és Klorinda párviadala]]
+	- [[stile concitato]]
+	- [[seconda prattica]]
+- [[opera#Olasz opera|olasz opera]]
+	- [[Claudio Monteverdi]]
+		- [[Claudio Monteverdi#Orfeo|Orfeo]]
+	- [[zárt számos szerkezet]]
+	- nyilvános operaházak (Velence, Nápoly)
+	- [[Alessandro Scarlatti]]
+	- [[sinfonia]]
+- [[opera#Francia opera|francia opera]]: a század közepétől
+	- [[udvari balett]]
+	- [[Jean-Baptiste Lully]]
+	- [[ouverture]]
+- [[Jean-Baptiste Lully]]
+	- [[törökös zene]]
+- [[opera#Angol opera|angol opera]]
+	- [[masque]]
+	- [[Henry Purcell]]
+		- [[Henry Purcell#Dido és Aeneas|Dido és Aeneas]]
+- [[Henry Purcell]]
+	- [[masque]]

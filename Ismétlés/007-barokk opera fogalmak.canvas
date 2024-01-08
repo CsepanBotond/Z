@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"57c584774c063247","type":"text","text":"monódia","x":-520,"y":-240,"width":134,"height":60},
+		{"id":"ee48ce04cb81bca4","type":"text","text":"recitativo","x":40,"y":-281,"width":140,"height":60},
+		{"id":"8db8500f1dd0e8ed","type":"text","text":"basso continuo","x":9,"y":-136,"width":184,"height":60},
+		{"id":"aea17e023a699796","type":"text","text":"seconda prattica","x":-297,"y":-102,"width":194,"height":60},
+		{"id":"ada5f91282bd7aba","type":"text","text":"stile concitato","x":-50,"y":71,"width":176,"height":60},
+		{"id":"9a1ae7dc857eff5e","type":"text","text":"favola in musica","x":-409,"y":29,"width":197,"height":60},
+		{"id":"2a6834a516277065","type":"text","text":"pasztorál","x":-629,"y":-361,"width":137,"height":60},
+		{"id":"e39f1ae25a52a04a","type":"text","text":"madrigál","x":9,"y":-421,"width":136,"height":60},
+		{"id":"ea50e08953668db0","x":-197,"y":-491,"width":126,"height":60,"type":"text","text":"masque"},
+		{"id":"56a37e000f93d30f","x":-556,"y":-496,"width":156,"height":60,"type":"text","text":"passacaglia"},
+		{"id":"93352735b1c11bfe","x":-316,"y":-194,"width":116,"height":60,"type":"text","text":"sonata"},
+		{"id":"fc0cde47605bb128","x":180,"y":-491,"width":165,"height":60,"type":"text","text":"udvari balett"},
+		{"id":"0f499c95d960a701","type":"text","text":"zárt számos szerkezet","x":-229,"y":-280,"width":238,"height":60},
+		{"id":"ec038fe01f440185","x":-391,"y":-391,"width":133,"height":60,"type":"text","text":"concerto"},
+		{"id":"16fb9f7433a05fb5","x":-50,"y":-31,"width":139,"height":60,"type":"text","text":"bariolage"},
+		{"id":"f4617cd8a2c07106","x":180,"y":-31,"width":129,"height":60,"type":"text","text":"sinfonia"},
+		{"id":"d25d0539ff0bc406","x":220,"y":-331,"width":141,"height":60,"type":"text","text":"ouverture"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,2 @@
+Tutti visszatérések és szóló epizódok váltakozása. Hasonlít a rondóra, de a [[ritornello]] gyakran nem az alaphangnemben szólal meg. Emellett a szólórészeknek a moduláció is feladata. Létrejöttét [[Antonio Vivaldi]]nak tulajdonítják.
+→ [[ritornello]]

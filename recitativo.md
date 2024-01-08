@@ -1,0 +1,2 @@
+A [[XVI. század]]ban az opera születésekor létrejött, énekbeszéd szerű előadásmódot alkalmazó műfaj. Biztosította, hogy a zene szövege érthető legyen a közönség számára. Fontos szempont volt, hogy a zene a szöveget szolgálja, ne váljon annál fontosabbá.
+[[monódia]]

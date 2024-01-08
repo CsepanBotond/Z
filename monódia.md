@@ -1,0 +1,1 @@
+Egyszólamú ének, jellemzői, hogy ritmikus, metrikus és tonális. Harmóniai kíséretet a [[basso continuo]] jelentett.

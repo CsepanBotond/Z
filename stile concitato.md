@@ -1,0 +1,1 @@
+“Izgatott stílus.” Reneszánsz vége felé ([[Palestrina]] et al.) még nem jellemző a harag és izgatottság ábrázolása a zenében. [[Claudio Monteverdi]]nél jelenik meg, a [[opera|barokk operában]] pedig kifejezetten jellemző.

@@ -1,3 +1,2 @@
 (cca. 1300–1377) [[XIV. század]]i francia zeneszerző az [[ars nova]] jelentős alakja. Öntudatos művész: saját műveit összegyűjti és kiadja.
-[[mise|Miséje]] (1364) az első, egy embertől származó kompozíció, amely a katolikus [[liturgia]] összes állandó szövegű tételét feldolgozza. Ez inspirálja a kor művészeit misék komponálásra, egyfajta kihívásnak tekintik. 👉[[Palestrina]]
-Miséjéből a Kyrie tételt írta meg először.
+[[mise|Miséje]] (1364) az első, egy embertől származó kompozíció, amely a katolikus [[liturgia]] összes állandó szövegű tételét feldolgozza. Négy szólamú mű, nincs közös zenei anyag ([[cantus firmus]]) a tételek között. Ez inspirálja a kor művészeit misék komponálásra, egyfajta kihívásnak tekintik. 👉[[Palestrina]]

@@ -1,0 +1,1 @@
+Az [[udvari balett]]re emlékeztető táncos-zenés színpadi mű a [[XVI. század|XVI.]]-[[XVII. század]]i [[Anglia|Angliában]]. Álarcban adták elő, mitológiai témájú (pl. Artúr király), és jellemző benne varázslók, boszorkányok megjelenése. A műfaj neves alkotója [[Henry Purcell]].
