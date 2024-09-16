@@ -1,0 +1,1 @@
+Amikor egy szótagra 2 hang jut; vokális zenéből ered.

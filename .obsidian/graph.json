@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:**szazad",
-      "color": {
-        "a": 1,
-        "rgb": 5984992
-      }
-    },
-    {
-      "query": "",
+      "query": "tag:#szabály  ",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#formatan  ",
+      "color": {
+        "a": 1,
+        "rgb": 10868316
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.39979568737684207,
-  "close": true
+  "scale": 0.2987400281921953,
+  "close": false
 }

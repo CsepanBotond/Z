@@ -1,0 +1,1 @@
+A basszusba a záróakkord alaphangja kerül, de a 3 felső szólam [[figuráció#Késleltetés (retardáció)|késik]].

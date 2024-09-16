@@ -1,0 +1,1 @@
+Minden hang az alteráció irányába oldódik.

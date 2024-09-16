@@ -1,0 +1,1 @@
+Zeneműben megjelenő harmónia elhelyezése hangnemben. Alterációkat jelezni kell a [[basszus]] szólamtól számolva.

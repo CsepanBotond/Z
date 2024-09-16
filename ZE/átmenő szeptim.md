@@ -1,0 +1,1 @@
+Átmenőhanggal a [[hármashangzat]]ból [[négyeshangzat]]ot kapunk, így gazdagabb, dúsabb lesz a hangzás.

@@ -1,0 +1,1 @@
+Egymást követő hangok távolsága a [[hangsor]]ban. Egész hangközök számában adjuk meg.

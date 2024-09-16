@@ -1,0 +1,1 @@
+Más néven szeptimakkordok, 3 egymásra épített tercből álló harmóniák. Alaphelyzetben lehetnek [[teljes szeptimakkord|teljesek]] vagy hiányosak, fordításaik csak teljesek lehetnek.

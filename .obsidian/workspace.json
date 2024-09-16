@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a65af8805a9e5286",
+        "id": "9392e558a3eaa5f4",
         "type": "tabs",
         "children": [
           {
-            "id": "6c5dd9d8d542c072",
+            "id": "c7b79559665c98b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "barokk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "43b23d5b495d553e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2a52290a2e51a806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antonio Vivaldi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -56,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -66,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ritornello",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 280.5
   },
   "right": {
     "id": "d546fcc884fbd1b0",
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "barokk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "barokk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "barokk.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,48 +137,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c5dd9d8d542c072",
+  "active": "c7b79559665c98b6",
   "lastOpenFiles": [
-    "Antonio Vivaldi.md",
-    "ritornello forma.md",
-    "sonata.md",
-    "Arcangelo Corelli.md",
-    "concerto.md",
-    "barokk.md",
-    "Kronológia.md",
-    "Claudio Monteverdi.md",
-    "sinfonia.md",
-    "Ismétlés/007-barokk opera fogalmak.canvas",
-    "masque.md",
-    "udvari balett.md",
-    "Ismétlés/006-reneszánsz-barokk.canvas",
-    "opera.md",
-    "seconda prattica.md",
-    "stile concitato.md",
-    "ritornello.md",
-    "regal.md",
-    "cink.md",
-    "chanson.md",
-    "madrigál.md",
-    "zárt számos szerkezet.md",
-    "Ismétlés/Untitled.md",
-    "Thomas Tallis.md",
-    "2023-12-28.md",
-    "Henry Purcell.md",
-    "törökös zene.md",
-    "Jean-Baptiste Lully.md",
-    "Ismétlés/002-újítások.canvas",
-    "Ismétlés/001-korok.canvas",
-    "Ismétlés/005-újítások.canvas",
-    "Ismétlés/004-kottaírás.canvas",
-    "Ismétlés/003-személyek.canvas",
-    "Ismétlés",
+    "ZE/szonáta.md",
+    "ZE/szonátaforma.md",
+    "Untitled.md",
+    "ZE/egytagú forma.md",
+    "ZE/mellékszeptim.md",
+    "ZE/mondat.md",
+    "ZE/periódus.md",
+    "ZE/V és V-kvintszext fűzése.md",
+    "ZE/domináns és I-szext fűzése.md",
+    "ZE/négyeshangzat.md",
+    "ZE/műelemzés szempontjai.md",
+    "ZE/cezúra.md",
+    "ZE/trió.md",
+    "ZE/mellékhármasok  szextakkordjai.md",
+    "ZE/fedett oktávpárhuzam.md",
+    "ZE/teljes késleltetés.md",
+    "ZE/moduláció.md",
+    "ZE/szűkített hármashangzat szerkesztése.md",
+    "ZE/szomszédos hármas- és négyeshangzat fűzése.md",
+    "ZE/főhármasok szextakkordjai.md",
+    "ZE/V átmenő szeptim.md",
+    "ZE/teljes szeptimakkord.md",
+    "ZE/korál.md",
+    "ZE/átmenő szeptim.md",
+    "ZE/akkordjelölések.md",
+    "ZE/barokk rondó.md",
+    "ZE/Fájlok/kvintkor.png",
+    "ZE/Fájlok",
+    "ZE",
+    "ZIR",
+    "ZIR/Ismétlés/007-barokk opera fogalmak.canvas",
+    "ZIR/Ismétlés/006-reneszánsz-barokk.canvas",
+    "ZIR/Ismétlés/002-újítások.canvas",
+    "ZIR/Ismétlés/001-korok.canvas",
+    "ZIR/Ismétlés/005-újítások.canvas",
+    "ZIR/Ismétlés/004-kottaírás.canvas",
+    "ZIR/Ismétlés/003-személyek.canvas",
+    "ZIR/Ismétlés",
     "Tempus_perf_prol_mai.svg.png",
-    "Fájlok/Guidonian_hand.jpg",
-    "Fájlok/hexachordok.svg",
-    "Források",
-    "Fogalmak",
+    "ZIR/Fájlok/Guidonian_hand.jpg",
+    "ZIR/Fájlok/hexachordok.svg",
+    "ZIR/Források",
+    "ZIR/Fogalmak",
     "Fájlok/Untitled.canvas",
-    "Fájlok"
+    "ZIR/Fájlok"
   ]
 }

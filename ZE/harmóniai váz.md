@@ -1,0 +1,1 @@
+Többszólamú zene összevonása egy [[négyszólamú szerkesztés#Szűk szerkesztés|négyszólamú szűk szerkesztésbe]].

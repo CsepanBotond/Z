@@ -1,0 +1,1 @@
+Amikor egy moll tonalitás utolsó akkordja moll helyett dúr színezetű.

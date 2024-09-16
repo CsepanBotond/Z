@@ -1,0 +1,1 @@
+Transzponált motívumismétlés.

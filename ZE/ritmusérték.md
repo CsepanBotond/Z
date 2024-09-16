@@ -1,0 +1,1 @@
+Hanghossz, pl. negyed, nyolcad stb.

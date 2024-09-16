@@ -1,0 +1,1 @@
+Egyszólamú egyházi népének.
