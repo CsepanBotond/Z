@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9392e558a3eaa5f4",
+        "id": "2de91e9b3133e2fd",
         "type": "tabs",
         "children": [
           {
-            "id": "c7b79559665c98b6",
+            "id": "3a53d531e948e8b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NZ/népzene értéke.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NZ/népzene értéke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NZ/népzene értéke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NZ/népzene értéke.md"
+              }
             }
           }
         ]
@@ -137,11 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7b79559665c98b6",
+  "active": "3a53d531e948e8b0",
   "lastOpenFiles": [
+    "NZ/népzene értéke.md",
+    "NZ/népzene-műzene összehasonlítása.md",
+    "NZ",
     "ZE/szonáta.md",
     "ZE/szonátaforma.md",
-    "Untitled.md",
     "ZE/egytagú forma.md",
     "ZE/mellékszeptim.md",
     "ZE/mondat.md",
@@ -164,7 +174,6 @@
     "ZE/korál.md",
     "ZE/átmenő szeptim.md",
     "ZE/akkordjelölések.md",
-    "ZE/barokk rondó.md",
     "ZE/Fájlok/kvintkor.png",
     "ZE/Fájlok",
     "ZE",

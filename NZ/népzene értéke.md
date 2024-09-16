@@ -1,0 +1,4 @@
+- történelmi lenyomat
+- kulturális érték
+- kiderülnek belőle az emberi élet állomásai
+- kiderül belőle az emberek természethez fűződő viszonya
