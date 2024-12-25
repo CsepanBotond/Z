@@ -1,0 +1,2 @@
+#formatan 
+A mű két nagyobb egységre osztható (I és II). Az I-ben a [[funkciók|tonikai]] hangnemből dominánsba modulál a zene, az I és II között rövid átvezetés visz vissza a tonikai hangnemben, ami onnantól végigmegy a II tagon. Az átvezetés még nem kidolgozás, de később az utóbbi átveszi a helyét.

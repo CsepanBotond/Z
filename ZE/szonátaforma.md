@@ -1,5 +1,5 @@
 #formatan 
-Nem összekeverendő a [[szonáta|szonátával]].
+Nem összekeverendő a [[sonata|szonátával]].
 
 Barokkban kéttagú, klasszikában jellemzően háromtagú zene. 
 

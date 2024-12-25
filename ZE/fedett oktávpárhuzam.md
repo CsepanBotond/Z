@@ -1,1 +1,1 @@
-Két különböző szólam azonos irányból, de nem azonos hangközlépéssel érkezik oktávba.
+Két szélső szólam azonos irányból, de nem azonos hangközlépéssel érkezik oktávba.

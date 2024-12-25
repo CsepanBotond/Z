@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2de91e9b3133e2fd",
+        "id": "b11e595d91dfcb08",
         "type": "tabs",
         "children": [
           {
-            "id": "3a53d531e948e8b0",
+            "id": "45e4be978e57e066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NZ/népzene értéke.md",
+                "file": "ZE/emelt alapú szűkítettek.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NZ/népzene értéke.md",
+                "file": "ZE/emelt alapú szűkítettek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NZ/népzene értéke.md",
+                "file": "ZE/emelt alapú szűkítettek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NZ/népzene értéke.md"
+                "file": "ZE/emelt alapú szűkítettek.md"
               }
             }
           }
@@ -145,35 +145,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a53d531e948e8b0",
+  "active": "45e4be978e57e066",
   "lastOpenFiles": [
-    "NZ/népzene értéke.md",
-    "NZ/népzene-műzene összehasonlítása.md",
-    "NZ",
+    "ZE/váltódomináns.md",
+    "ZE/nápolyi akkord.md",
+    "ZE/prelúdium.md",
+    "ZE/elízió.md",
+    "ZE/V-szekund és I-szext fűzése.md",
+    "ze/emelt alapú szűkítettek.md",
+    "ZE/emelt alapú szűkítettek.md",
+    "ze/V-szekund és I-szext fűzése.md",
+    "ze/elízió.md",
+    "triós forma.md",
+    "ZE/trió.md",
+    "menüett.md",
+    "ze/prelúdium.md",
+    "zir/Domenico Cimarosa.md",
+    "ze/nápolyi akkord.md",
+    "ZIR/Domenico Cimarosa.md",
+    "ze/váltódomináns.md",
+    "ZE/négyeshangzat.md",
+    "ZE/fedett oktávpárhuzam.md",
+    "ZE/moduláció.md",
+    "ze/alterált akkordok.md",
+    "ZE/alterált akkordok.md",
+    "ZIR/sonata.md",
+    "ZE/műelemzés szempontjai.md",
     "ZE/szonáta.md",
     "ZE/szonátaforma.md",
-    "ZE/egytagú forma.md",
-    "ZE/mellékszeptim.md",
-    "ZE/mondat.md",
-    "ZE/periódus.md",
-    "ZE/V és V-kvintszext fűzése.md",
-    "ZE/domináns és I-szext fűzése.md",
-    "ZE/négyeshangzat.md",
-    "ZE/műelemzés szempontjai.md",
-    "ZE/cezúra.md",
-    "ZE/trió.md",
-    "ZE/mellékhármasok  szextakkordjai.md",
-    "ZE/fedett oktávpárhuzam.md",
-    "ZE/teljes késleltetés.md",
-    "ZE/moduláció.md",
-    "ZE/szűkített hármashangzat szerkesztése.md",
-    "ZE/szomszédos hármas- és négyeshangzat fűzése.md",
-    "ZE/főhármasok szextakkordjai.md",
-    "ZE/V átmenő szeptim.md",
-    "ZE/teljes szeptimakkord.md",
-    "ZE/korál.md",
-    "ZE/átmenő szeptim.md",
-    "ZE/akkordjelölések.md",
+    "NZ",
     "ZE/Fájlok/kvintkor.png",
     "ZE/Fájlok",
     "ZE",
