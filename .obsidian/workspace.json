@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f993801a8a1f7894",
+        "id": "02ba5b347f514d54",
         "type": "tabs",
         "children": [
           {
-            "id": "8842c6f7e69f464b",
+            "id": "dd1dc56fbd23ace4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZE/bővített szextes akkordok.md",
-                "mode": "source",
+                "file": "NZ/elemzési szempontok.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bővített szextes akkordok"
+              "title": "elemzési szempontok"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZE/bővített szextes akkordok.md",
+                "file": "NZ/elemzési szempontok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bővített szextes akkordok"
+              "title": "Backlinks for elemzési szempontok"
             }
           },
           {
@@ -161,8 +161,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8842c6f7e69f464b",
+  "active": "dd1dc56fbd23ace4",
   "lastOpenFiles": [
+    "NZ/elemzett népdalok.md",
+    "NZ/tartalom szerinti csoportosítás.md",
+    "ZE/bővített szextes akkordok.md",
+    "NZ/népzenei dialektusok.md",
+    "nz/tartalom szerinti csoportosítás.md",
+    "ZE/kvintkör.md",
+    "ZE/Fájlok/kvintkor.png",
+    "NZ/Fájlok/népzenei dialektusok.jpg",
+    "NZ/Fájlok",
+    "NZ/elemzési szempontok.md",
+    "nz/népzenei dialektusok.md",
+    "NZ/népdalok rendszerezése.md",
+    "NZ/zárlat.md",
     "ZE/szeptimakkord szekvencia.md",
     "ZE/szonátaforma.md",
     "ZE/barokk kéttagúság.md",
@@ -176,21 +189,10 @@
     "ZE/emelt alapú szűkítettek.md",
     "ZE/mollbeli és mollszubdomináns akkordok.md",
     "ZE/dal.md",
-    "ZE/bővített szextes akkordok.md",
     "ze/bővített szextes akkordok.md",
     "ZE/rondó.md",
     "ze/dal.md",
-    "ze/mollbeli és mollszubdomináns akkordok.md",
-    "ze/emelt alapú szűkítettek.md",
-    "ze/V-szekund és I-szext fűzése.md",
-    "ze/elízió.md",
-    "triós forma.md",
-    "ZE/trió.md",
-    "menüett.md",
-    "ze/prelúdium.md",
-    "zir/Domenico Cimarosa.md",
     "NZ",
-    "ZE/Fájlok/kvintkor.png",
     "ZE/Fájlok",
     "ZE",
     "ZIR",

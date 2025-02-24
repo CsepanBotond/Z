@@ -33,16 +33,16 @@ B
 
 $\underset{B}{\underset{\flat}{IV_{5\flat}^{6\sharp}}}=$ “bővített négy kvintszext”
 
-# IV6
+# $IV^6$
 A $\underset{B}{IV^6}$ kvintkettőzött.
 Ha $\underset{B}{IV^6}$ követi a diatonikus $IV^6$-et, akkor utóbbi – noha [[főhármasok szextakkordjai|főhármas]] – **mindig kvintkettőzött**. Alapkettőzés esetén *t8* párhuzamot kapnánk.
 
 Dúrban a $\underset{B}{IV^6}$ basszushangja a leszállított 6. lépcső, mollban a diatonikus 6. lépcső. Utóbbi esetben ezért nem kell alterálni.
 
-# IV6/5
+# $IV^6_5$
 Ha a $\underset{B}{IV^6_5}$-et V-re oldjuk, akkor *t5*-párhuzam jön létre a basszus és valamely felső szólam között, ami **megengedett** és *Mozart-kvint*nek hívjuk.
 
 A $\underset{B}{IV^6_5}$ enharmonikus az 5 kvinttel lejjebb lévő hangnem $D^7$-ével, ezért kiváló eszköze a modulációnak.
 
-# II4/3
+# $II^4_3$
 Felépítése: *n3-n2-n3*.
